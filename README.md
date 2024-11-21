@@ -4,7 +4,7 @@ This project provides an in-depth review of 8 clustering algorithms commonly use
 Clustering Algorithms Covered
 1. K-Means Clustering
 2. DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
-3. Gaussian Mixture Model (GMM)
+3. GMM (Gaussian Mixture Model)
 4. BIRCH (Balanced Iterative Reducing and Clustering Using Hierarchies)
 5. Affinity Propagation Clustering
 6. Mean-Shift Clustering
